@@ -1,0 +1,287 @@
+[
+  {
+    "titulo": "O caminho das águas",
+    "subTitulo": "As Nascentes",
+    "textoPrincipal": "As nascentes são lugares especiais onde a água fresca começa a aparecer na Terra. Imagine pequenas fontes que brotam da terra, como mágica!",
+    "textoSecundario": "Nas nascentes, a água é tão pura que podemos beber direto dela!",
+    "curiosidades": [
+      "1 - Algumas nascentes estão escondidas nas florestas, onde a água brota misteriosamente.",
+      "2 - Animais também apreciam a água das nascentes, bebendo de suas fontes fresquinhas e naturais.",
+      "3 - A água que flui das nascentes é conhecida por sua temperatura geladinha e sabor deliciosamente refrescante, tornando-a irresistível em dias quentes de verão."
+    ],
+    "imagem": "caminhoDaAgua/01-lago.png",
+    "galeria": [
+      "caminhoDaAgua/galeria/asNascentes/nascente-01.png",
+      "caminhoDaAgua/galeria/asNascentes/nascente-02.png",
+      "caminhoDaAgua/galeria/asNascentes/nascente-03.png",
+      "caminhoDaAgua/galeria/asNascentes/nascente-04.png"
+    ],
+    "perguntas": [
+      {
+        "id": 0,
+        "pergunta": "O que são nascentes?",
+        "alternativas": ["Pequenos rios", "Fontes de água fresca", "Montanhas altas"],
+        "respostaCorreta": 1,
+        "callback": [
+          "Incorreto! Nascentes são como fontes de água fresca que brotam da terra!",
+          "Isso mesmo! Nascentes são como fontes mágicas de água.",
+          "Incorreto! Montanhas altas não são nascentes, mas podem ter nascentes perto delas."
+        ]
+      },
+      {
+        "id": 1,
+        "pergunta": "Como podemos definir ecossistemas aquáticos?",
+        "alternativas": [
+          "Ambientes onde a água é fundamental",
+          "Lugares com muita chuva",
+          "Florestas tropicais"
+        ],
+        "respostaCorreta": 0,
+        "callback": [
+          "Correto! Esses ecossistemas dependem da água para prosperar.",
+          "Incorreto! Lugares com muita chuva podem ser diferentes de ecossistemas aquáticos.",
+          "Incorreto! Ecossistemas aquáticos são ambientes onde a água é fundamental para a vida."
+        ]
+      }
+    ],
+    "pagina": 1
+  },
+  {
+    "titulo": "O caminho das águas",
+    "subTitulo": "Rios e Riachos",
+    "textoPrincipal": "Depois que a água sai das nascentes, ela flui como um rio ou riacho. Às vezes, esses rios são grandes e largos, outras vezes são bem estreitos, como um caminho de água.",
+    "textoSecundario": "Os rios são como estradas aquáticas para os barcos e animais aquáticos!",
+    "curiosidades": [
+      "1 - Alguns rios são tão largos que podemos usar barcos neles, transformando-os em vias aquáticas para transporte.",
+      "2 - Muitos peixes vivem nos rios e riachos, criando ecossistemas aquáticos cheios de vida.",
+      "3 - A água dos rios pode ser usada para regar plantas, contribuindo para o cultivo de vegetação saudável."
+    ],
+    "imagem": "caminhoDaAgua/02-rio.png",
+    "galeria": [
+      "caminhoDaAgua/galeria/riosRiachos/rios-01.png",
+      "caminhoDaAgua/galeria/riosRiachos/rios-02.png",
+      "caminhoDaAgua/galeria/riosRiachos/rios-03.png",
+      "caminhoDaAgua/galeria/riosRiachos/rios-04.png",
+      "caminhoDaAgua/galeria/riosRiachos/rios-05.png"
+    ],
+    "perguntas": [
+      {
+        "id": 2,
+        "pergunta": "Onde a água flui depois das nascentes?",
+        "alternativas": ["Para o mar", "Como um rio ou riacho", "Para o céu"],
+        "respostaCorreta": 1,
+        "callback": [
+          "Incorreto! Depois das nascentes, a água flui como um rio ou riacho.",
+          "Isso mesmo! A água faz um caminho como um rio ou riacho.",
+          "A água não vai para o céu, mas pode evaporar e formar nuvens."
+        ]
+      },
+      {
+        "id": 3,
+        "pergunta": "Qual é a principal diferença entre um rio e um riacho?",
+        "alternativas": ["A largura", "A profundidade", "A localização geográfica"],
+        "respostaCorreta": 0,
+        "callback": [
+          "A principal diferença entre um rio e um riacho está na largura.",
+          "Isso mesmo! Rios são geralmente mais largos do que riachos.",
+          "A profundidade e a localização geográfica podem variar, mas a largura é a característica mais distintiva."
+        ]
+      }
+    ],
+    "pagina": 2
+  },
+  {
+    "titulo": "O caminho das águas",
+    "subTitulo": "Lençóis Freáticos",
+    "textoPrincipal": "Embaixo da terra, existe algo chamado lençol freático. É como uma grande piscina subterrânea de água! Quando cavamos um poço, podemos encontrar essa água fresca.",
+    "textoSecundario": "Os lençóis freáticos são como um tesouro escondido sob a terra!",
+    "curiosidades": [
+      "1 - Podemos encontrar lençóis freáticos cavando poços profundos na terra, onde a água subterrânea é armazenada.",
+      "2 - Árvores e plantas bebem água dos lençóis freáticos através de suas raízes, ajudando-os a crescer e florescer.",
+      "3 - Lençóis freáticos desempenham um papel vital em manter a terra úmida, fornecendo água para riachos e lagos próximos."
+    ],
+    "imagem": "caminhoDaAgua/03-lençol.png",
+    "galeria": [
+      "caminhoDaAgua/galeria/lencoisFreaticos/lencois-01.png",
+      "caminhoDaAgua/galeria/lencoisFreaticos/lencois-02.png",
+      "caminhoDaAgua/galeria/lencoisFreaticos/lencois-03.png"
+    ],
+    "perguntas": [
+      {
+        "id": 4,
+        "pergunta": "O que é um lençol freático?",
+        "alternativas": [
+          "Uma piscina no céu",
+          "Uma piscina subterrânea de água",
+          "Um lago no topo de uma montanha"
+        ],
+        "respostaCorreta": 1,
+        "callback": [
+          "Incorreto! Um lençol freático é como uma grande piscina subterrânea de água!",
+          "Muito bem! É como uma piscina mágica escondida sob a terra.",
+          "Incorreto! Não é uma piscina no céu nem um lago no topo de uma montanha."
+        ]
+      },
+      {
+        "id": 5,
+        "pergunta": "Qual é a principal função de um lençol freático?",
+        "alternativas": [
+          "Fornecer água potável para casas",
+          "Armazenar água para regar plantas",
+          "Abastecer rios e lagos com água"
+        ],
+        "respostaCorreta": 2,
+        "callback": [
+          "Incorreto! A principal função de um lençol freático é abastecer rios e lagos com água.",
+          "Incorreto! Embora a água dos lençóis freáticos possa ser usada para regar plantas e fornecer água potável, sua função principal é abastecer corpos d'água maiores.",
+          "Isso mesmo! Lençóis freáticos alimentam a água que flui em rios e lagos."
+        ]
+      }
+    ],
+    "pagina": 3
+  },
+  {
+    "titulo": "O caminho das águas",
+    "subTitulo": "Tratamento da Água",
+    "textoPrincipal": "Antes de a água chegar às nossas casas, ela precisa ser limpa e tratada para ficar segura para beber. Isso acontece em lugares especiais chamados estações de tratamento de água.",
+    "textoSecundario": "Nas estações de tratamento, a água é como uma princesa que recebe um banho real!",
+    "curiosidades": [
+      "1 - Nas estações de tratamento de água, um processo mágico faz a água passar por filtros e a deixa brilhantemente limpa e saudável para consumo.",
+      "2 - Engenheiros adicionam produtos especiais nas estações de tratamento para eliminar germes e tornar a água segura para beber.",
+      "3 - Depois de passar pelo tratamento, a água se transforma em uma amiga saudável e própria para beber, pronta para nos manter hidratados e felizes."
+    ],
+    "imagem": "caminhoDaAgua/04-tratamento.png",
+    "galeria": [
+      "caminhoDaAgua/galeria/tratamento/tratamento-01.png",
+      "caminhoDaAgua/galeria/tratamento/tratamento-02.png",
+      "caminhoDaAgua/galeria/tratamento/tratamento-03.png",
+      "caminhoDaAgua/galeria/tratamento/tratamento-04.png"
+    ],
+    "perguntas": [
+      {
+        "id": 6,
+        "pergunta": "Onde a água é limpa e tratada para ficar segura para beber?",
+        "alternativas": ["Em estações de tratamento de água", "No rio", "Nas nascentes"],
+        "respostaCorreta": 0,
+        "callback": [
+          "A água é limpa e tratada em estações de tratamento de água!",
+          "Icorreto! A água é limpa e tratada em estações de tratamento de água!",
+          "Nas nascentes não, mas lá a água já é bem limpa."
+        ]
+      },
+      {
+        "id": 7,
+        "pergunta": "O que acontece com a água na estação de tratamento de água?",
+        "alternativas": [
+          "Ela é poluída",
+          "Ela é aquecida",
+          "Ela é limpa e tratada para ficar segura para beber"
+        ],
+        "respostaCorreta": 2,
+        "callback": [
+          "Incorreto! Na estação de tratamento de água, a água é limpa e tratada para se tornar segura para beber.",
+          "Incorreto! A água não é aquecida durante o tratamento, mas sim purificada.",
+          "Isso mesmo! O processo de tratamento torna a água própria para consumo. "
+        ]
+      }
+    ],
+    "pagina": 4
+  },
+  {
+    "titulo": "O caminho das águas",
+    "subTitulo": "Encanamentos",
+    "textoPrincipal": "Depois de ser tratada, a água viaja por tubos subterrâneos chamados encanamentos. Imagine-os como canos mágicos que levam a água até nossas torneiras!",
+    "textoSecundario": "Os encanamentos são como caminhos secretos para a água chegar até nós!",
+    "curiosidades": [
+      "1 - Os encanamentos estão escondidos debaixo da terra, como um mistério subterrâneo que leva água para todos os lugares.",
+      "2 - Eles são como caminhos mágicos que levam a água até nossas casas, escolas e todos os lugares onde precisamos dela.",
+      "3 - Às vezes, os encanamentos precisam ser consertados se houver vazamentos, como heróis que protegem nossa água."
+    ],
+    "imagem": "caminhoDaAgua/05-cano.png",
+    "galeria": [
+      "caminhoDaAgua/galeria/encanamento/encanamento-01.png",
+      "caminhoDaAgua/galeria/encanamento/encanamento-02.png",
+      "caminhoDaAgua/galeria/encanamento/encanamento-03.png"
+    ],
+    "perguntas": [
+      {
+        "id": 8,
+        "pergunta": "Qual é a finalidade de um encanamento de esgoto em uma casa?",
+        "alternativas": [
+          "Levar água potável para a casa",
+          "Transportar águas pluviais",
+          "Remover águas usadas e resíduos da casa"
+        ],
+        "respostaCorreta": 2,
+        "callback": [
+          "Incorreto! A finalidade de um encanamento de esgoto em uma casa é remover águas usadas e resíduos da casa.",
+          "Incorreto! Não leva água potável nem águas pluviais, mas cuida das águas usadas da casa.",
+          "Isso mesmo! Ele é responsável por transportar águas sujas para tratamento."
+        ]
+      },
+      {
+        "id": 9,
+        "pergunta": "O que é a principal função dos encanamentos nas nossas casas?",
+        "alternativas": [
+          "Eles fornecem eletricidade",
+          "Eles levam água",
+          "Eles transportam gás natural"
+        ],
+        "respostaCorreta": 1,
+        "callback": [
+          "Incorreto! A principal função dos encanamentos nas nossas casas é levar água para uso doméstico!",
+          "Correto! Eles são responsáveis por trazer água para nossas torneiras e aparelhos.",
+          "Incorreto! Os encanamentos não fornecem eletricidade nem transportam gás natural, mas água potável."
+        ]
+      }
+    ],
+    "pagina": 5
+  },
+  {
+    "titulo": "O caminho das águas",
+    "subTitulo": "Nas Nossas Casas",
+    "textoPrincipal": "Finalmente, a água chega às nossas casas! Ela sai das torneiras para bebermos, tomar banho, lavar nossas roupas e fazer muitas outras coisas.",
+    "textoSecundario": "A água que chega em nossas casas é como um presente da natureza!",
+    "curiosidades": [
+      "1 - Podemos usar a água para cozinhar refeições deliciosas e fazer sucos refrescantes.",
+      "2 - A água desempenha um papel importante na higiene diária, ajudando-nos a lavar nossas mãos e escovar os dentes.",
+      "3 - É crucial não desperdiçar água e adotar o hábito de fechar a torneira quando não estamos usando, assim cuidamos do nosso planeta."
+    ],
+    "imagem": "caminhoDaAgua/06-casa.png",
+    "galeria": [
+      "caminhoDaAgua/galeria/nossasCasas/casa-01.png",
+      "caminhoDaAgua/galeria/nossasCasas/casa-02.png",
+      "caminhoDaAgua/galeria/nossasCasas/casa-03.png",
+      "caminhoDaAgua/galeria/nossasCasas/casa-04.png"
+    ],
+    "perguntas": [
+      {
+        "id": 10,
+        "pergunta": "Qual é a principal utilidade da água em nossas casas?",
+        "alternativas": ["Lavar carros", "Regar plantas", "Beber, cozinhar e tomar banho"],
+        "respostaCorreta": 2,
+        "callback": [
+          "Incorreto! A principal utilidade da água em nossas casas é para beber, cozinhar e tomar banho.",
+          "Embora possamos usá-la para outras coisas, sua função principal é para consumo e higiene pessoal.",
+          "Isso mesmo! A água é essencial para nossas necessidades diárias."
+        ]
+      },
+      {
+        "id":11,
+        "pergunta": "O que você deve fazer para economizar água em casa?",
+        "alternativas": [
+          "Deixar todas as torneiras abertas o tempo todo",
+          "Tomar banhos longos todos os dias",
+          "Fechar a torneira enquanto escova os dentes"
+        ],
+        "respostaCorreta": 2,
+        "callback": [
+          "Para economizar água em casa, você deve fechar a torneira enquanto escova os dentes.",
+          "Deixar todas as torneiras abertas o tempo todo e tomar banhos longos não são práticas econômicas de água.",
+          "Isso mesmo! Pequenas ações como essa fazem uma grande diferença na economia de água."
+        ]
+      }
+    ],
+    "pagina": 6
+  }
+]
